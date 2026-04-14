@@ -3,7 +3,9 @@ this is my first github repo
 
 this is a test
 
-**kurtis** *kurtis* ***kurtis***
+**Test** *Test* ***Test***
 ## things I like to do
 - biking
 - skating
+### things I need to do:
+-Add to linkedin [Linkdedin}(http://linkedin)
