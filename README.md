@@ -8,4 +8,3 @@ this is a test
 - biking
 - skating
 ### things I need to do:
--Add to linkedin [Linkdedin}(http://linkedin)
